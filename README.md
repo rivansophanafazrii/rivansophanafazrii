@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ###
 
-<!-- <p align="left">Play Game With Me</p>
+<p align="left">Play Game With Me</p>
 
 ###
 
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rivansophanafazrii/rivansophanafazrii/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rivansophanafazrii/rivansophanafazrii/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rivansophanafazrii/rivansophanafazrii/output/pacman-contribution-graph.svg">
-</picture> -->
+</picture>
 
 ###
 
