@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 
 ##### My Github Stats
 
-[![Rivan Sophana Fazri GitHub stats](https://github-readme-stats.vercel.app/api?username=rivansophanafazrii&show_icons=true&theme=shadow_blue)
+![Rivan Sophana Fazri GitHub stats](https://github-readme-stats.vercel.app/api?username=rivansophanafazrii&show_icons=true&theme=shadow_blue)
