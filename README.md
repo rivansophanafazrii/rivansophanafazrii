@@ -36,3 +36,7 @@ Here are some ideas to get you started:
 ##### Connect with me
 
 ![https://www.instagram.com/rivansophanafazri](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+##### My Github Stats
+
+[![Rivan Sophana Fazri GitHub stats](https://github-readme-stats.vercel.app/api?username=rivansophanafazrii&show_icons=true&theme=shadow_blue)
